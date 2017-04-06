@@ -1,0 +1,5 @@
+Precio de ventas de la plantilla.
+Costo materia prima.
+Gastos finacieros celda 56 en los gastos admin
+Gastos de ventas.
+Plan operativo.
